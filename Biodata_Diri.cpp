@@ -7,4 +7,6 @@ int main (){
 	
 	cout << " latihan git membuat branch  ";
 
+	cout << "AGIL ADI SAPUTRO izin masuk"
+
 }
